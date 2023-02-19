@@ -5,7 +5,7 @@
 #include <stdio.h>
 int main()
 {
-    int chislo;
+    int chislo=0;
     while(chislo != -9999)
     {
         scanf("%d ",&chislo);

@@ -6,9 +6,9 @@
 #include <math.h>
 int main()
 {
-    int N;
-    float n;
-    scanf("%d",&N);
+    long int N;
+    double n;
+    scanf("%ld",&N);
     if (N==1)
     printf("YES");
     else
